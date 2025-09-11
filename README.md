@@ -20,7 +20,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 ### Requisitos
 
 * Visual Studio versão 2022+ ou Visual Studio Code.
-* Windows 10+ ou Linux/MacOS com [.NET SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) instalado
+* Windows 10+ ou Linux/MacOS com [.NET SDK][dot_net_sdk] instalado
 * MySql Server
 
 ### Instalação
@@ -28,8 +28,24 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 1. Clone o repositório:
 
     ```sh
-    git clone https://github.com/JefersonPFernandes/CashFlow.git
+    git clone [repositorio_git]
     ```
 
 2. Preencha as informações no arquivo `appsettings.Development.json`.
 3. Execute a API e aproveite o teste.
+
+## Exemplo de PDF.
+
+![pdf_image]
+
+
+
+
+<!-- links -->
+[dot_net_sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+[repositorio_git]: https://github.com/JefersonPFernandes/CashFlow.git
+
+
+<!-- images -->
+[pdf_image]: pdfimage.png
+
