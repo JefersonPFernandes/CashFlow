@@ -28,7 +28,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 1. Clone o repositório:
 
     ```sh
-    git clone [repositorio_git]
+    git clone https://github.com/JefersonPFernandes/CashFlow.git
     ```
 
 2. Preencha as informações no arquivo `appsettings.Development.json`.
@@ -43,9 +43,8 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 <!-- links -->
 [dot_net_sdk]: https://dotnet.microsoft.com/en-us/download/dotnet/8.0
-[repositorio_git]: https://github.com/JefersonPFernandes/CashFlow.git
 
 
 <!-- images -->
-[pdf_image]: pdfimage.png
+[pdf_image]: 
 
