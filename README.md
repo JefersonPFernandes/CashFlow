@@ -13,6 +13,14 @@ Dentre os pacotes NuGet utilizados, o **AutoMapper** é o responsável pelo mape
 - **Geração de relatórios**: Capacidade de exportar relatórios detalhados para **PDF** e **Excel**, oferecendo uma análize visual e eficaz das despesas.
 - **RESTful API com Documentação Swagger**: Interface documentada que facilita a integração e o teste por parte dos desenvolvedores.
 
+### Construído com
+
+![badge_dot_net]
+![badge_windows]
+![badgevisual_studio]
+![badge_mysql]
+![badge_swagger]
+
 ## Getting Started
 
 Para obter uma cópia local funcionando, siga estes passos simples.
@@ -34,7 +42,7 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 2. Preencha as informações no arquivo `appsettings.Development.json`.
 3. Execute a API e aproveite o teste.
 
-## Exemplo de PDF.
+## Exemplo de relatório em PDF.
 
 ![pdf_image]
 
@@ -47,4 +55,12 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 <!-- images -->
 [pdf_image]: pdfimage.png
+
+<!-- Badges -->
+
+[badge_dot_net]: https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=fff&style=for-the-badge
+[badge_windows]: https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=Windows&logoColor=white
+[badgevisual_studio]: https://img.shields.io/badge/Visual%20Studio-purple?style=for-the-badge&logo=visualstudio&logoColor=white
+[badge_mysql]: https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge
+[badge_swagger]: https://img.shields.io/badge/Swagger-85EA2D?logo=swagger&logoColor=000&style=for-the-badge
 
