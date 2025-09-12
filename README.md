@@ -46,5 +46,5 @@ Para obter uma cópia local funcionando, siga estes passos simples.
 
 
 <!-- images -->
-[pdf_image]: 
+[pdf_image]: pdfimage.png
 
