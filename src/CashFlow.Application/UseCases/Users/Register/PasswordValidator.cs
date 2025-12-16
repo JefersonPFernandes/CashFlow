@@ -47,7 +47,7 @@ namespace CashFlow.Application.UseCases.Users
                 return false;
             }
 
-            if (Regex.IsMatch(password, @"[\!\?\*\.]+") == false)
+            if (Regex.IsMatch(password, @"[\!\?\*\.\@]+") == false)
             {
                 context.MessageFormatter.AppendArgument(ERROR_MESSAGE_KEY, ResourceErrorMessages.INVALID_PASSWORD);
                 return false;

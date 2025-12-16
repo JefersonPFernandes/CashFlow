@@ -124,7 +124,7 @@ namespace CashFlow.Exception {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a The password must be at least 8 characters long, containing at least one capital letter, one number, and one special character (e.g., ! ? * . @ # $ % &amp;).
+        ///   Consulta uma cadeia de caracteres localizada semelhante a The password must be at least 8 characters long, containing at least one capital letter, one number, and one special character (e.g., ! ? * . @).
         /// </summary>
         public static string INVALID_PASSWORD {
             get {

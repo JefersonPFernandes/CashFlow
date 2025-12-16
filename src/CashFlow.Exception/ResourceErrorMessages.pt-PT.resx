@@ -139,7 +139,7 @@
     <value>Despesa não encontrada.</value>
   </data>
   <data name="INVALID_PASSWORD" xml:space="preserve">
-    <value>A palavra-passe deve ter um mínimo de 8 caracteres, contendo pelo menos uma letra maiúscula, um número e um caractere especial (por exemplo, ! ? * . @ # $ % &amp;)</value>
+    <value>A palavra-passe deve ter um mínimo de 8 caracteres, contendo pelo menos uma letra maiúscula, um número e um caractere especial (por exemplo, ! ? * . @)</value>
   </data>
   <data name="NAME_EMPTY" xml:space="preserve">
     <value>O nome não pode ser vazio.</value>
